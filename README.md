@@ -1,7 +1,7 @@
 # AnimationVideo_MultimediaProject
 ## Edumation-Lab
 An Animation on Chemical Bond
-
+Explore this video here: https://www.youtube.com/watch?v=pLMd9Q9sj1s
 
 ## Ojectives
 This is for the educational aspect. 
